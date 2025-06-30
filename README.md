@@ -9,3 +9,14 @@ Battery x1 Push Switch x1 LED x2 Resistor x3 NPN-transistor x1 Photoresistor x1
 
 # Some Glimpses
 
+
+
+
+
+
+
+
+# Slack ID
+
+osmiumxib07
+
